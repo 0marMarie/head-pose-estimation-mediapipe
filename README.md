@@ -3,7 +3,7 @@
 
 ## 📸 Images and Videos `Model Output`
 
-![OutImage](outimg.png)
+![OutImage](outimg.jpg)
 <br/>
 
 ![Video](outpy2.avi)
