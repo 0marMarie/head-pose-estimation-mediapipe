@@ -1,5 +1,5 @@
 # 🤖 Head Pose Estimation ML - Mediapipe
-<br>
+
 > Note that You should download the video in order to see it.
 
 ## 📸 Images and Videos `Model Output`
