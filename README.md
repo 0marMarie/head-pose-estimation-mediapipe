@@ -1,6 +1,6 @@
 # 🤖 Head Pose Estimation ML - Mediapipe
 
-> Note that You should download the video in order to see it.
+> Note that You should <strong>download</strong> the video in order to see it.
 
 ## 📸 Images and Videos `Model Output`
 
